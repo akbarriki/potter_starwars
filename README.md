@@ -3,9 +3,9 @@ A Windows-based App to predict the hum or whistle of users and consider it to be
 
 
 ## Development Environment
-OS: Windows 10
-Python: Python 3.7.6
-Required Libraries:
+OS: &nbsp;&nbsp;&nbsp;&nbsp;Windows 10
+<br/>Python:&nbsp;&nbsp;&nbsp;&nbsp;Python 3.7.6
+<br/>Required Libraries:
 - Tensorflow
 - Keras
 - PyAudio
